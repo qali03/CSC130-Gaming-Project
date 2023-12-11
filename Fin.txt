@@ -1,0 +1,5 @@
+string1*Fin: 'My name is Fin'
+string2*Fin: 'Hello there!'
+string3*Fin: 'Welcome to my world!'
+string4*Fin: 'Get ready to play!'
+string5*Fin: 'You are doing great!'
